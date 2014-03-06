@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Ny annonse">
+		<message><![CDATA[Vis skjema for registrering av ny annonse.]]></message>
+	</layout>	
+	<state>
+		<name>Annonsekategorier</name>
+		<description>Kategorier med annonser</description>
+	</state>
+</metadata>

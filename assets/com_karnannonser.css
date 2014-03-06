@@ -1,0 +1,126 @@
+div.karnads_ad 
+ { 
+		border: solid 1px silver;
+		background: white;
+		padding: 8px;
+		margin: 8px 0 8px 0;				
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		-khtml-border-radius: 8px;
+		border-radius: 8px;
+		
+ }
+ div.karnads_summary
+ {
+ 	width: 100%;
+ }
+ div.ka_field_modified
+ {
+	 font-size: 8pt;
+	margin-top: 2em;
+	 color: silver;	 
+ }
+ div.karnads_ad img 
+ {
+	 width: 190px;
+	 float: none;
+	 margin: 0;
+ }
+ div.ka_image
+ {
+	 
+	 display: block;
+	 float: right;
+	 width: 30%;
+	 padding: 0;
+	margin: 4px 0 4px 0;
+ }
+ div.ka_text 
+ {
+	 display: block;
+	 margin: 4px;
+	 width: 60%;
+ }
+ div.ka_field_name
+ {
+	 margin: 16px 0 0 0;
+ }
+ div.karnads_ad a 
+ { 
+	border: none; 
+	text-decoration: none; 
+}
+div.karn_singlead
+{
+	padding: 8px;
+	clear:both;
+}
+	
+img.karn_singlead
+{	
+	clear: both;
+	float: none;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.karn_singlead_editinfo
+{
+	margin: 2em;
+	padding: 2em;
+	text-align: center;
+	border: solid 1px silver;
+	background-color: white;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	border-radius: 8px;
+}
+fieldset 
+{
+	background-color: white; 
+	border: solid 1px silver;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	border-radius: 8px;	
+}
+fieldset legend
+{
+		color: #808080;
+		font-size: 8pt;
+
+}
+form.karnad label {
+	width: 150px;
+	height: 1em;
+	float: left;
+	font-weight: bold;
+}
+form.karnad input
+{
+	left: 155px;
+	clear: both;
+}
+
+form.karnad textarea 
+{
+	width: 450px;
+}
+
+#submit
+{
+	left: 250px;
+	float: right;
+}
+
+div.karnad_info
+{
+	margin: 2em;	
+	border: solid 1px silver;
+	font-size: 8pt;
+	background-color: #FFFDE7;
+	color: black;
+	padding: 8px;
+	text-align: center;
+}

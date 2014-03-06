@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Annonseliste">
+		<message><![CDATA[Vis liste med annonser i en kategori.]]></message>
+	</layout>	
+	<state>
+	<name>Annonsekategorier</name>
+	<description>Kategorier med annonser</description>
+	<params>
+		<param name="catid" label="Kategori" default="0" description="Velg kategori for annonsene" scope="com_karnannonser" type="category"/>
+	</params>
+	</state>
+</metadata>
